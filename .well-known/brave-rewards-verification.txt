@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bakito.github.io
+Token: 8914211f4edfa3bc2f6172abcbf9f614db63e67c17538d6c18db9443c9f2215c
